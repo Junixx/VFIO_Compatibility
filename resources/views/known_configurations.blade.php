@@ -91,10 +91,10 @@
 				</select>
 				</td>
 			</tr>
-			<tr>
+		<!--	<tr>
 				<td>Ram:</td>
 				<td/>
-			</tr>
+			</tr> -->
 			<tr>
 				<td>CPU:</td>
 				<td>

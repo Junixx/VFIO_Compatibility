@@ -15,10 +15,10 @@
 			</select>
 			</td>
 		</tr>
-		<tr>
+		<!--<tr>
 			<td>Ram:</td>
 			<td/>
-		</tr>
+		</tr>-->
 		<tr>
 			<td>CPU:</td>
 			<td><select name="cpu_select">

@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Encode+Sans+Expanded');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 
 div.topcontrol{
         position:absolute;
@@ -114,4 +115,17 @@ table tr:nth-child(even){
 
 table tr:nth-child(odd){
 background:#C5EFF7;
+}
+
+div > p{
+    color:white;
+    font-family: 'Encode Sans Expanded',sans-serif;
+}
+
+div ul li{
+    color:white;
+}
+
+h2,h3,p,td,li{
+  font-family: 'Encode Sans Expanded',sans-serif;
 }
